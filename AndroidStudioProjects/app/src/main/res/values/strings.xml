@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Лягушка</string>
+    <string name="_0">0</string>
+    <string name="col1">Player</string>
+    <string name="col2">Time</string>
+    <string name="col3">Score</string>
+    <string name="col4">Best score</string>
+</resources>
